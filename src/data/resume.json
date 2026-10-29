@@ -1,0 +1,87 @@
+{
+  "name": "Jyothicharan Garapati",
+  "firstName": "Jyothicharan",
+  "role": "Data Science Undergraduate",
+  "location": "Visakhapatnam, Andhra Pradesh, India",
+  "email": "garapatijyothicharan@gmail.com",
+  "phone": "+91 94936 74358",
+  "linkedin": "https://www.linkedin.com/in/garapati-jyothicharan",
+  "portrait": "/images/jyothicharan-outdoor.jpg",
+  "summary": "Motivated and adaptable data science undergraduate with strong communication, problem-solving, and interpersonal skills. Experienced in guiding group discussions, resolving queries, and maintaining performance standards. Eager to contribute technical proficiency and a collaborative mindset.",
+  "intro": "I’m Jyothicharan—a data science undergraduate who enjoys turning complex problems into clear, practical solutions. I bring together Python, SQL, data visualization, careful debugging, and a collaborative way of working.",
+  "skills": [
+    { "name": "Python", "group": "Programming" },
+    { "name": "C Programming", "group": "Programming" },
+    { "name": "MySQL", "group": "Data & Databases" },
+    { "name": "DBMS", "group": "Data & Databases" },
+    { "name": "Jupyter Notebook", "group": "Data & Databases" },
+    { "name": "Tableau", "group": "Data Visualization" },
+    { "name": "Data Visualization", "group": "Data Visualization" },
+    { "name": "Communication", "group": "Strengths" },
+    { "name": "Team Collaboration", "group": "Strengths" },
+    { "name": "Mentoring & Articulation", "group": "Strengths" },
+    { "name": "Debugging & Problem Solving", "group": "Strengths" }
+  ],
+  "education": [
+    {
+      "qualification": "Bachelor of Computer Science",
+      "specialization": "Data Science",
+      "institution": "Aditya Degree College",
+      "location": "Visakhapatnam, India",
+      "period": "Expected Apr 2026",
+      "result": "8.14 CGPA"
+    },
+    {
+      "qualification": "Intermediate · MPC",
+      "specialization": "Mathematics, Physics & Chemistry",
+      "institution": "Sri Chaitanya Junior College",
+      "location": "Visakhapatnam, India",
+      "period": "Mar 2023",
+      "result": "7.2 GPA"
+    },
+    {
+      "qualification": "10th Standard",
+      "specialization": "Secondary education",
+      "institution": "Mohan Secondary School",
+      "location": "Andhra Pradesh, India",
+      "period": "Apr 2021",
+      "result": "10 GPA"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Group Discussion Mentor · Teacher’s Assistant",
+      "organization": "Peer learning",
+      "location": "Visakhapatnam, India",
+      "period": "Aug 2025 – Present",
+      "details": [
+        "Facilitate structured peer discussions and use iterative feedback to strengthen clarity, confidence, and technical articulation.",
+        "Create a collaborative learning environment that encourages open dialogue, problem-solving, and continuous improvement.",
+        "Monitor individual progress and offer focused coaching to improve verbal fluency and reduce communication blockers."
+      ]
+    }
+  ],
+  "certifications": [
+    { "name": "MySQL HeatWave Implementation Certified Associate Rel 1", "issuer": "Oracle" },
+    { "name": "Visualizing Data with Python · Verified Certificate", "issuer": "edX" },
+    { "name": "Python Basics for Data Science · Verified Certificate", "issuer": "edX" },
+    { "name": "CLA: Programming Essentials in C", "issuer": "Cisco Networking Academy" },
+    { "name": "Python for Data Science", "issuer": "Infosys Springboard" },
+    { "name": "Tata Group · Data Visualization Job Simulation", "issuer": "Forage" }
+  ],
+  "achievements": [
+    {
+      "rank": "01",
+      "title": "Precision Debugging Sprint · 1st Place",
+      "event": "VISMAYAH 2k25 Grand Finale",
+      "detail": "Recognized for logic, speed, and precision among participants from more than 30 Aditya campuses."
+    },
+    {
+      "rank": "02",
+      "title": "Query Quest DBMS Challenge · 2nd Place",
+      "event": "Aditya Institute campuses, Andhra Pradesh",
+      "detail": "Placed second by solving advanced Oracle SQL queries with accuracy and efficiency."
+    }
+  ],
+  "marquee": ["DATA SCIENCE", "PYTHON", "SQL & DBMS", "DATA VISUALIZATION", "PROBLEM SOLVING", "COLLABORATION"]
+}
